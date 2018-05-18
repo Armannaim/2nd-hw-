@@ -1,0 +1,69 @@
+<!DOCTYPE HTML>
+<html lang="bn=BD">
+<head>
+	<meta charset="UTF-8">
+	<title>*অধিকার তুমি কি আমার !!*</title>
+</head>,,
+<body>
+     <p>
+	 বেচে থাকার জন্য আমাদের অনেক কিছুই লাগে । বেচে থাকার জন্য প্রতিদিন করতে হয় লড়াই ।এ  লড়াই কখনো হয় কারো একার আবার কখনো বা হয়  অনেকের ।<br>
+	  জীবন যুদ্ধে  সর্বোপরি আমাদের টিকে থাকার জন্য অনেক কঠিন বাধা ,ঝড় , বন্ধুর পথও পারি দিতে  হয়   । <br><br>
+ 		  
+	 জীবন  নামের এ পথে হাটতে হাটতে কখন যে পথ থমকে যায় , কেউ জানে না  । এ পথের চলাটা শুরু  হওয়ার পর আমরা অনেক মানুষের সাথে উঠা বসা মেলামেশা করি । <br>
+           কেউ হয় আমাদের প্রান প্রিয় আবার কেউ হয় আমাদের দৃষ্টি কটুর এর অংশ ।<br>
+           জিবনে যে শুধু সুখ আছে তা না বরং সুখের চেয়ে দুঃখের ভাগ টাই অনেক ক্ষেত্রে  বেশি মনে হয় । টক , ঝাল , মিষ্টি নিয়ে আমাদের জীবন । <br>
+	তাও কেন জানি একটা টান বা মোহ কাজ করে এই জীবনটার জন্য ।<br><br>
+      	
+           আর   এই জীবনকে সুখের , সুন্দর ও উন্নত করার জন্য আমাদের কিছু মৌলিক উপয়াদান এর দরকার হয়  <br> <br>	  
+	 
+	 <button><h3>মৌলিক উপয়াদান------></h3></button>
+	 </p>
+      <ul>
+      	<li>
+      		<p>1-> শিক্ষা</p>
+      	</li>
+      	<li>
+      		<p>2-> চিকিৎসা</p>
+      	</li>
+      	<li>
+      		<p>3-> অন্য</p>
+      	</li>
+      	<li>
+      		<p>4->বস্ত্র</p>
+      	</li>
+      	<li>
+      		<p>5-> বাসস্থান</p>
+      	</li>
+      </ul>   <br><br>
+	  
+	  
+	  <p>নিচের ছবি গুলু মানুষের অধিকার নিয়ে --------></p>
+	 <img src="1.jpg" alt="human rights" />
+	 <img src="2.jpg" alt="human rights" /> <br>
+	 <img src="3.jpg"align="center" alt="human rights" /> <br>
+	  <ul> <br>
+	  
+	  <p> বিস্তারিত অনুসন্ধানের  জন্য লিঙ্কগুলু  দেখে আসুন --------></p <br>
+	  
+	  <marquee>	<lo><a href="https://en.wikipedia.org/wiki/Fundamental_rights"><b> >>> **************লিঙ্ক টি  wikipidia থেকে নেয়া<b></a></lo>
+	  	<lo><a href="http://www.schoolmattazz.com/2016/11/fundamental-human-rights/"><b> >>>****************লিঙ্ক টি  schoolmattaz থেকে নেয়া<b></a></lo>
+	  	<lo><a href="http://www.legalnaija.com/2012/09/your-fundamental-human-rights.html"><b> >>>*************লিঙ্ক টি ligannija থেকে নেয়া<b></a></lo> </marquee> <br>
+	  <ul> 
+	  <ul> <br>
+	  
+	  <p> বিস্তারিত অনুসন্ধানের  জন্য লিঙ্কগুলু  দেখে আসুন --------></p <br>
+	  
+	  <lo><a href="https://en.wikipedia.org/wiki/Fundamental_rights"><b> >>>লিঙ্ক টি  wikipidia থেকে নেয়া<b></a></lo><br>
+	  	<lo><a href="http://www.schoolmattazz.com/2016/11/fundamental-human-rights/"><b> >>> লিঙ্ক টি  schoolmattaz থেকে নেয়া<b></a></lo><br>
+	  	<lo><a href="http://www.legalnaija.com/2012/09/your-fundamental-human-rights.html"><b> >>>লিঙ্ক টি ligannija থেকে নেয়া<b></a></lo> <br>
+	  <ul>
+
+	  <p> অনুসন্ধানের  জন্য পরবর্তী পেজ দেখে আসুন --------></p <br>
+	  <button>1</button>
+	  <button>2</button>
+	  <button>3>>></button>
+	  
+	  
+	  
+</body>
+</html>
